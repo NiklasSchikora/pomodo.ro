@@ -1,6 +1,5 @@
-import { Center, Flex, Heading } from "@chakra-ui/react";
+import { Center, Heading } from "@chakra-ui/react";
 import React from "react";
-import { TimeControl } from "./TimeControl";
 
 export const Header = () => {
   return (
