@@ -5,7 +5,7 @@ import {
   Flex,
 } from "@chakra-ui/react";
 import { BellIcon } from "@chakra-ui/icons";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
 export const TimeCircle = () => {
   const [time, setTime] = useState(100);

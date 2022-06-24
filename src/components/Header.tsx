@@ -6,7 +6,7 @@ export const Header = () => {
     <React.Fragment>
       <Center padding="5">
         <Heading as="h1" size="2xl">
-          pomodo.ro ✨
+          ✨ pomodo.ro ✨
         </Heading>
       </Center>
     </React.Fragment>
